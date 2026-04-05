@@ -1,0 +1,15 @@
+📝 Question,📚 Reference Answer (Model Answer),✍️ Student Answer,🎯 Score,🏷️ Classification,📊 Confidence,🔍 Analysis,💬 Feedback,timestamp
+What is Gradiet ,Gradient descent is an iterative optimization algorithm used in machine learning and deep learning to minimize a cost function (or loss function). Its primary goal is to find the best model parameters—such as weights and biases—that result in the lowest error between predicted and actual outcomes,"Gradient Descent is a computer program that automatically increases the error of a machine learning model to make it faster. It works by taking massive, random steps uphill, ignoring the slope of the loss function, and it only works on data that has already been classified perfectly. It is used to ensure the model never converges.",🎯 Score: 3.39 / 5.00,🏷️ Classification: ⚠️ Partial,"📊 Confidence Breakdown:
+    
+    Incorrect: █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 5.7%
+    Partial:   ███████████████████████░░░░░░░ 78.1%
+    Correct:   ████░░░░░░░░░░░░░░░░░░░░░░░░░░ 16.3%","🔍 Feature Analysis:
+    
+    Keyword Coverage:    25.0%
+    Semantic Similarity: 18.8%
+    Length Ratio:        82.1%","👍 GOOD EFFORT! Main idea captured, but can improve.
+
+✅ Strengths: error, machine, descent, learning, gradient
+⚠️ Missing concepts: lowest, biases—that, algorithm, predicted, parameters—such
+
+💡 Tip: Compare your answer with the reference to cover all key points.",2026-04-03 22:47:45.211471
